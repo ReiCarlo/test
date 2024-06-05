@@ -1,0 +1,19 @@
+img {
+  position: absolute;
+  height: 50vh;
+  width: 100%;
+  z-index: -1;
+  text-align: center;
+}
+
+h6 {
+  color: white;
+  text-align: center;
+}
+.imagecenter {
+  text-align: center;
+}
+
+.text-end {
+  text-align: center;
+}
